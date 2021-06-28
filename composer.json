@@ -1,5 +1,5 @@
 {
-    "name": "mainul/shurjopay",
+    "name": "mainul/shurjopay-laravel",
     "description": "A package for handling ShurjoPay payment gateway in Laravel applications.",
     "keywords": [
         "laravel",
