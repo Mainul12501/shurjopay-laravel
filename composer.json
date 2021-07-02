@@ -9,6 +9,12 @@
         "online-payment"
       ],
 	  "type": "package",
+	  "repositories":[
+		{
+			"type": "vcs",
+			"url": "git@github.com:Mainul12501/shurjopay-laravel.git"
+		}
+	],
     "require": {
         "php": ">=7.2",
         "laravel/framework": ">=6.0",
